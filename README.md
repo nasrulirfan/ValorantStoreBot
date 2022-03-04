@@ -2,21 +2,23 @@
 Discord bot that shows your daily store offer without opening the VALORANT base game by using the Ingame API.
 written using Python and the [Pycord](https://github.com/Pycord-Development/pycord) library <br>
 
-#### NEW UPDATE 
-* `Notify skin, shows valorant point, Login, logout, more`
-* [`Night Market (end 23/02/2022)`](https://i.imgur.com/n1KSay4.png)
-
 ## Screenshot
+* Store
 
-![image](https://i.imgur.com/I0rHtiM.png)
+![store](https://github.com/TehHatrix/nash-discordbotvalorant/blob/main/README/Store.png?raw=true)
 <br>
-* Embed Design `-embed split` by [Giorgio#0609](https://github.com/giorgi-o)[`img`](https://i.imgur.com/qzrI0qF.png) | default : `-embed pillow` 
-
-![image](https://i.imgur.com/J1Dptta.png)
 
 * Notify skin
 
-![image](https://i.imgur.com/ijjvQV3.png)
+![notify](https://github.com/TehHatrix/nash-discordbotvalorant/blob/main/README/Notify.png?raw=true)
+
+* NightMarket
+
+![nightmarket](https://github.com/TehHatrix/nash-discordbotvalorant/blob/main/README/NightMarket.png?raw=true)
+
+* Checking Valorant Points
+
+![point](https://github.com/TehHatrix/nash-discordbotvalorant/blob/main/README/Point.png?raw=true)
 
 ## Installations
 
@@ -48,8 +50,6 @@ pip install requests
 ```
 python bot.py
 ```
-* Slash Command in the global happens instantly `(takes 1 hour to process.)` | force global `-setup global`
-* if you want use in server now `-setup guild` to setup the commands. | remove command `-unsetup guild`
 
 ## Usage
 
@@ -72,9 +72,6 @@ for providing a great API about Valorant!
 
 ### [Valorant-API.com](https://valorant-api.com/)
 for every skin names and images!
-
-### [Giorgio#0609](https://github.com/giorgi-o)
-for embed design and helping me and more!
 
 ### [Discord - Valorant App Developer ](https://discord.gg/a9yzrw3KAm) by [MikeValorantLeaks](https://github.com/RumbleMike)
 developer community for valorant api
