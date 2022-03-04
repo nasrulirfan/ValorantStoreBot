@@ -5,20 +5,20 @@ written using Python and the [Pycord](https://github.com/Pycord-Development/pyco
 ## Screenshot
 * Store
 
-![store](https://github.com/TehHatrix/nash-discordbotvalorant/blob/main/README/Store.png?raw=true)
+![store](https://github.com/TehHatrix/ValorantStoreBot/blob/main/README/Store.png?raw=true)
 <br>
 
 * Notify skin
 
-![notify](https://github.com/TehHatrix/nash-discordbotvalorant/blob/main/README/Notify.png?raw=true)
+![notify](https://github.com/TehHatrix/ValorantStoreBot/blob/main/README/Notify.png?raw=true)
 
 * NightMarket
 
-![nightmarket](https://github.com/TehHatrix/nash-discordbotvalorant/blob/main/README/NightMarket.png?raw=true)
+![nightmarket](https://github.com/TehHatrix/ValorantStoreBot/blob/main/README/NightMarket.png?raw=true)
 
 * Checking Valorant Points
 
-![point](https://github.com/TehHatrix/nash-discordbotvalorant/blob/main/README/Point.png?raw=true)
+![point](https://github.com/TehHatrix/ValorantStoreBot/blob/main/README/Point.png?raw=true)
 
 ## Installations
 
